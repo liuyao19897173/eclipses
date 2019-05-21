@@ -9,7 +9,7 @@ import org.apache.shiro.authz.AuthorizationInfo;
 import org.apache.shiro.authz.SimpleAuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
-
+//123
 public class Myrealms extends AuthorizingRealm{
 
 	//授权方法:获取授权信息
